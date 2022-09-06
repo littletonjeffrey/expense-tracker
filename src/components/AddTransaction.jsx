@@ -1,6 +1,9 @@
-import React from 'react'
+import { useState } from 'react'
 
-export const Transaction = () => {
+
+export const AddTransaction = () => {
+    const [text, setText] = useState('');
+    const [text, ssetAmount] = useState(0);
   return (
     <>
         <h3>Add new transaction</h3>
