@@ -9,6 +9,6 @@ router
 
 router
 .route('/:id')
-.delete(deleteTransaction)
+.delete(deleteTransaction);
 
 module.exports = router;
