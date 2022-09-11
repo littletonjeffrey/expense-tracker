@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/littletonjeffrey/expense-tracker/issues"
   },
-  "homepage": "https://github.com/littletonjeffrey/expense-tracker#readme",
+  "homepage": "www.cashsaver.app",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^16.0.2",
